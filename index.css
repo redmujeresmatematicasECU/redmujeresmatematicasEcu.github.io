@@ -2,6 +2,7 @@ body {
   margin: 60px auto;
   width: 70%;
   background-color: #e5eef0;
+  font-family: 'Montserrat', 'Sans-Serif';
 }
 
 .img-portrait {
@@ -11,7 +12,6 @@ body {
 
 nav ul {
   font-size: 1.35em;
-  font-family: 'Montserrat', 'Sans-Serif';
   padding: 0px;
   list-style: none;
   font-weight: bold;
