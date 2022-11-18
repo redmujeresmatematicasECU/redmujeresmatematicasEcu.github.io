@@ -1,0 +1,28 @@
+body {
+  margin: 60px auto;
+  width: 70%;
+  background-color: #a3dce9;
+}
+
+nav ul {
+  font-size: 1.35em;
+  font-family: 'Open Sans Condensed', 'Sans-Serif';
+  padding: 0px;
+  list-style: none;
+  font-weight: bold;
+}
+nav ul li {
+  display: inline;
+  color: #2ca4be;
+  margin-right: 20px;
+}
+nav li.selected a {
+  color: #fdc75c;
+}
+a {
+  text-decoration: none;
+  color: #228398;
+}
+a:hover {
+  text-decoration: underline;
+}
